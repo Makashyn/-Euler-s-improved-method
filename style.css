@@ -1,0 +1,54 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/*.table-1{
+	margin: 20px auto;
+	border: 1px solid grey;
+	border-collapse: collapse;
+
+}
+.table-2{
+	margin: 20px auto;
+	border: 1px solid grey;
+	border-collapse: collapse;
+
+}
+.table-3{
+	margin: 20px auto;
+	border: 1px solid grey;
+	border-collapse: collapse;
+}
+.table-4{
+	margin: 20px auto;
+	border: 1px solid grey;
+	border-collapse: collapse;
+}
+tr{
+	height: 50px;
+	border: 1px solid grey;
+}
+td{
+	width: 50px;
+	text-align: center;
+	border: 1px solid grey;
+}
+th{
+	width: 50px;
+	text-align: center;
+	border: 1px solid grey;
+	background-color: #48D1CC;
+}
+.lab1{
+	width: inherit;
+	padding: 50px;
+	height: 70px;
+	background-color: #48D1CC;;
+	color: grey;
+	text-align: center;
+	font-size: 40px;
+}*/
+p{
+	margin: 20px 500px;
+}
